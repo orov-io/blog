@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>My New Hugo Site</title>
+    <description>A minimal hugo theme focus on content</description>
+    <link>http://localhost/blog/</link>
+    
+    <language>en</language>
+    <copyright>Copyright 2024, Calvin Tran</copyright>
+    <lastBuildDate>Fri, 08 Nov 2024 13:06:36 +0100</lastBuildDate>
+    <generator>Hugo - gohugo.io</generator>
+    <docs>http://cyber.harvard.edu/rss/rss.html</docs>
+    <atom:link href="http://localhost/blog//atom.xml" rel="self" type="application/atom+xml"/>
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>http://localhost/blog/posts/hello/</link>
+      <description>&lt;h2 id=&#34;hello&#34;&gt;Hello&lt;/h2&gt;
+&lt;p&gt;World!&lt;/p&gt;
+</description>
+      <author>Calvin Tran</author>
+      <guid>http://localhost/blog/posts/hello/</guid>
+      <pubDate>Fri, 08 Nov 2024 13:06:36 +0100</pubDate>
+    </item>
+    
+  </channel>
+</rss>
