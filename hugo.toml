@@ -14,7 +14,7 @@ paginate = 3
 
   [params.comments]
     enabled = true
-    githubRepo = 'canhtran/maverick'
+    githubRepo = 'orov-io/blog'
     theme = 'github-light'
 
 
