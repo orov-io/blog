@@ -1,6 +1,6 @@
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": "My New Hugo Site",
+  "title": "The orov.io blog",
   "home_page_url": "http://localhost/blog/",
   "feed_url": "http://localhost/blog/feed.json",
   "description": "A minimal hugo theme focus on content",

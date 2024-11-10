@@ -1,5 +1,5 @@
 languageCode = 'es-es'
-title = 'My New Hugo Site'
+title = 'The orov.io blog'
 theme = 'maverick'
 
 paginate = 3
